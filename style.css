@@ -1,0 +1,28 @@
+#header {
+  width: 140px;
+  margin-left: auto;
+}
+.top {
+  display: inline-block;
+  margin-top: 17px;
+  margin-left: 5px;
+  font-family: Arial;
+  color: gray;
+}
+.login {
+  padding: 10px;
+  float: right;
+  width: 30px;
+  height: 30px;
+  border-radius: 100px;
+}
+#main {
+  width: 400px;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+.searchbox {
+  padding: 10px;
+  margin: 10px;
+  width: 345px;
+}
